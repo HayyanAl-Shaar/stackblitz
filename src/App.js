@@ -5,6 +5,7 @@ export default function App() {
   return (
     <div>
       <h1>Hayyan</h1>
+      <div>new div</div>
     </div>
   );
 }
